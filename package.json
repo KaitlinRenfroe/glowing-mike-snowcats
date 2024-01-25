@@ -1,0 +1,16 @@
+{
+  "name": "glowing-mike-snowcats",
+  "version": "1.0.0",
+  "description": "CIS 486 repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "epress": "^0.0.1-security",
+    "express": "^4.18.2"
+  }
+}
